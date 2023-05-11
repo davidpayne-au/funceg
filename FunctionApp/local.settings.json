@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "FuncEgOptions__ApplicationName": "Some example thing",
+        "FuncEgOptions__Version": "1.0.0"
+    }
+}
